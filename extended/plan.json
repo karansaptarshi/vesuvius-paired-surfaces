@@ -1,0 +1,979 @@
+[
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_4610_4797_4205",
+    "center_xy": [
+      1541,
+      1541
+    ],
+    "position_zyx": [
+      3575.287353515625,
+      4993.90478515625,
+      4662.60595703125
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 0,
+    "distance_to_previous_mm": 28.651073820509783
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "PHerc1203_1894_3594_9489",
+    "center_xy": [
+      605,
+      605
+    ],
+    "position_zyx": [
+      9947.099609375,
+      3342.385498046875,
+      1564.8853759765625
+    ],
+    "width": 768,
+    "grid_valid": 0.9999643961588541,
+    "selected_index": 0,
+    "distance_to_previous_mm": 20.936363731135057
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_4610_4797_4205",
+    "center_xy": [
+      605,
+      605
+    ],
+    "position_zyx": [
+      4818.8603515625,
+      4673.04931640625,
+      4624.56298828125
+    ],
+    "width": 768,
+    "grid_valid": 0.9995914035373263,
+    "selected_index": 1,
+    "distance_to_previous_mm": 12.028874188500927
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "auto_grown_20251005231446965",
+    "meta": {
+      "id": "auto_grown_20251005231446965",
+      "scroll": "PHerc1203",
+      "scan": "20250820131727",
+      "mesh_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/segments/raw/auto_grown_20251005231446965/",
+      "ct_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20250820131727-9.362um-1.2m-113keV-masked.zarr/0",
+      "pixel_um": 9.362,
+      "area_cm2": 12.531226497266319,
+      "derived_voxel_um": 9.362,
+      "acquisition": "registered native geometric surface",
+      "scale": [
+        0.05000000074505806,
+        0.05000000074505806
+      ],
+      "bbox": [
+        [
+          907.8822631835938,
+          3318.0556640625,
+          5404.654296875
+        ],
+        [
+          4634.10595703125,
+          4758.0732421875,
+          9443.453125
+        ]
+      ]
+    },
+    "center_xy": [
+      1911,
+      3764
+    ],
+    "position_zyx": [
+      8342.7578125,
+      4466.20361328125,
+      2312.776123046875
+    ],
+    "width": 768,
+    "grid_valid": 0.9841156005859375,
+    "selected_index": 1,
+    "distance_to_previous_mm": 14.746603123367748
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2765_2952_4205",
+    "center_xy": [
+      1541,
+      1541
+    ],
+    "position_zyx": [
+      4831.35693359375,
+      2984.8076171875,
+      2775.469482421875
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 2,
+    "distance_to_previous_mm": 9.922662638893483
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "auto_grown_20250925223153537",
+    "meta": {
+      "id": "auto_grown_20250925223153537",
+      "scroll": "PHerc1203",
+      "scan": "20250820131727",
+      "mesh_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/segments/raw/auto_grown_20250925223153537/",
+      "ct_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20250820131727-9.362um-1.2m-113keV-masked.zarr/0",
+      "pixel_um": 9.362,
+      "area_cm2": 2.9154915809631348,
+      "derived_voxel_um": 9.36200049667578,
+      "acquisition": "registered native geometric surface",
+      "scale": [
+        0.05000000074505806,
+        0.05000000074505806
+      ],
+      "bbox": [
+        [
+          1569.711181640625,
+          2694.619873046875,
+          7317.90234375
+        ],
+        [
+          3372.281494140625,
+          3601.297119140625,
+          9498.568359375
+        ]
+      ]
+    },
+    "center_xy": [
+      702,
+      1287
+    ],
+    "position_zyx": [
+      8695.98046875,
+      3275.52734375,
+      1825.3658447265625
+    ],
+    "width": 768,
+    "grid_valid": 0.9808180067274306,
+    "selected_index": 2,
+    "distance_to_previous_mm": 11.980504218391605
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2639_2833_3836",
+    "center_xy": [
+      605,
+      605
+    ],
+    "position_zyx": [
+      3198.6787109375,
+      2740.884033203125,
+      2657.280517578125
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 3,
+    "distance_to_previous_mm": 8.882140629620595
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "auto_grown_20251005221856743",
+    "meta": {
+      "id": "auto_grown_20251005221856743",
+      "scroll": "PHerc1203",
+      "scan": "20250820131727",
+      "mesh_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/segments/raw/auto_grown_20251005221856743/",
+      "ct_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20250820131727-9.362um-1.2m-113keV-masked.zarr/0",
+      "pixel_um": 9.362,
+      "area_cm2": 11.792692235862566,
+      "derived_voxel_um": 9.362,
+      "acquisition": "registered native geometric surface",
+      "scale": [
+        0.05000000074505806,
+        0.05000000074505806
+      ],
+      "bbox": [
+        [
+          2066.233154296875,
+          3308.672119140625,
+          5402.6962890625
+        ],
+        [
+          4378.08154296875,
+          4232.59765625,
+          9077.2998046875
+        ]
+      ]
+    },
+    "center_xy": [
+      2945,
+      3374
+    ],
+    "position_zyx": [
+      8505.138671875,
+      3909.458740234375,
+      3800.5068359375
+    ],
+    "width": 768,
+    "grid_valid": 0.9993659125434028,
+    "selected_index": 3,
+    "distance_to_previous_mm": 11.408940794872713
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_1821_3308_3710",
+    "center_xy": [
+      1541,
+      1541
+    ],
+    "position_zyx": [
+      3188.864501953125,
+      3288.45654296875,
+      1741.2874755859375
+    ],
+    "width": 768,
+    "grid_valid": 0.9999966091579862,
+    "selected_index": 4,
+    "distance_to_previous_mm": 8.475989311120424
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "auto_grown_20251005230830031",
+    "meta": {
+      "id": "auto_grown_20251005230830031",
+      "scroll": "PHerc1203",
+      "scan": "20250820131727",
+      "mesh_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/segments/raw/auto_grown_20251005230830031/",
+      "ct_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20250820131727-9.362um-1.2m-113keV-masked.zarr/0",
+      "pixel_um": 9.362,
+      "area_cm2": 16.09939659345846,
+      "derived_voxel_um": 9.362,
+      "acquisition": "registered native geometric surface",
+      "scale": [
+        0.05000000074505806,
+        0.05000000074505806
+      ],
+      "bbox": [
+        [
+          1064.31494140625,
+          4380.5859375,
+          5819.12939453125
+        ],
+        [
+          5322.908203125,
+          5119.833984375,
+          10150.41796875
+        ]
+      ]
+    },
+    "center_xy": [
+      2126,
+      3413
+    ],
+    "position_zyx": [
+      8730.830078125,
+      4823.86474609375,
+      3967.795654296875
+    ],
+    "width": 768,
+    "grid_valid": 0.9999932183159722,
+    "selected_index": 4,
+    "distance_to_previous_mm": 8.95557637356063
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2189_3132_4008",
+    "center_xy": [
+      1541,
+      1541
+    ],
+    "position_zyx": [
+      4476.044921875,
+      3230.265625,
+      1911.861572265625
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 5,
+    "distance_to_previous_mm": 5.92857250633642
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "PHerc1203_1894_3594_9489",
+    "center_xy": [
+      1541,
+      1541
+    ],
+    "position_zyx": [
+      9162.455078125,
+      4023.368408203125,
+      2245.4951171875
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 5,
+    "distance_to_previous_mm": 8.744996843040852
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_4610_4797_4205",
+    "center_xy": [
+      1073,
+      1073
+    ],
+    "position_zyx": [
+      4206.32470703125,
+      4795.474609375,
+      4608.83642578125
+    ],
+    "width": 768,
+    "grid_valid": 0.9999864366319444,
+    "selected_index": 6,
+    "distance_to_previous_mm": 5.84982824837191
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "auto_grown_20251005230830031",
+    "meta": {
+      "id": "auto_grown_20251005230830031",
+      "scroll": "PHerc1203",
+      "scan": "20250820131727",
+      "mesh_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/segments/raw/auto_grown_20251005230830031/",
+      "ct_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20250820131727-9.362um-1.2m-113keV-masked.zarr/0",
+      "pixel_um": 9.362,
+      "area_cm2": 16.09939659345846,
+      "derived_voxel_um": 9.362,
+      "acquisition": "registered native geometric surface",
+      "scale": [
+        0.05000000074505806,
+        0.05000000074505806
+      ],
+      "bbox": [
+        [
+          1064.31494140625,
+          4380.5859375,
+          5819.12939453125
+        ],
+        [
+          5322.908203125,
+          5119.833984375,
+          10150.41796875
+        ]
+      ]
+    },
+    "center_xy": [
+      1502,
+      2262
+    ],
+    "position_zyx": [
+      8947.1728515625,
+      5054.51611328125,
+      2538.05517578125
+    ],
+    "width": 768,
+    "grid_valid": 0.9999796549479166,
+    "selected_index": 6,
+    "distance_to_previous_mm": 8.173298322971032
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2765_2952_4205",
+    "center_xy": [
+      1073,
+      1073
+    ],
+    "position_zyx": [
+      4238.2509765625,
+      2950.595947265625,
+      2762.942626953125
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 7,
+    "distance_to_previous_mm": 5.563124099820485
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "auto_grown_20251005221856743",
+    "meta": {
+      "id": "auto_grown_20251005221856743",
+      "scroll": "PHerc1203",
+      "scan": "20250820131727",
+      "mesh_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/segments/raw/auto_grown_20251005221856743/",
+      "ct_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20250820131727-9.362um-1.2m-113keV-masked.zarr/0",
+      "pixel_um": 9.362,
+      "area_cm2": 11.792692235862566,
+      "derived_voxel_um": 9.362,
+      "acquisition": "registered native geometric surface",
+      "scale": [
+        0.05000000074505806,
+        0.05000000074505806
+      ],
+      "bbox": [
+        [
+          2066.233154296875,
+          3308.672119140625,
+          5402.6962890625
+        ],
+        [
+          4378.08154296875,
+          4232.59765625,
+          9077.2998046875
+        ]
+      ]
+    },
+    "center_xy": [
+      2360,
+      3667
+    ],
+    "position_zyx": [
+      8758.474609375,
+      4166.99951171875,
+      3112.129638671875
+    ],
+    "width": 768,
+    "grid_valid": 0.9998626708984375,
+    "selected_index": 7,
+    "distance_to_previous_mm": 7.278131711064498
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2262_3183_3906",
+    "center_xy": [
+      1541,
+      1541
+    ],
+    "position_zyx": [
+      4413.3076171875,
+      3340.47265625,
+      2429.344970703125
+    ],
+    "width": 768,
+    "grid_valid": 0.9999321831597222,
+    "selected_index": 8,
+    "distance_to_previous_mm": 4.988027798338011
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "auto_grown_20251005230830031",
+    "meta": {
+      "id": "auto_grown_20251005230830031",
+      "scroll": "PHerc1203",
+      "scan": "20250820131727",
+      "mesh_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/segments/raw/auto_grown_20251005230830031/",
+      "ct_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20250820131727-9.362um-1.2m-113keV-masked.zarr/0",
+      "pixel_um": 9.362,
+      "area_cm2": 16.09939659345846,
+      "derived_voxel_um": 9.362,
+      "acquisition": "registered native geometric surface",
+      "scale": [
+        0.05000000074505806,
+        0.05000000074505806
+      ],
+      "bbox": [
+        [
+          1064.31494140625,
+          4380.5859375,
+          5819.12939453125
+        ],
+        [
+          5322.908203125,
+          5119.833984375,
+          10150.41796875
+        ]
+      ]
+    },
+    "center_xy": [
+      1794,
+      2848
+    ],
+    "position_zyx": [
+      8899.5263671875,
+      5025.02880859375,
+      3289.65087890625
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 8,
+    "distance_to_previous_mm": 6.807955729961865
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2231_2721_3715",
+    "center_xy": [
+      1073,
+      1073
+    ],
+    "position_zyx": [
+      3717.456298828125,
+      2711.51953125,
+      2223.90625
+    ],
+    "width": 768,
+    "grid_valid": 0.9998982747395834,
+    "selected_index": 9,
+    "distance_to_previous_mm": 4.705361214580925
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "auto_grown_20250925223153537",
+    "meta": {
+      "id": "auto_grown_20250925223153537",
+      "scroll": "PHerc1203",
+      "scan": "20250820131727",
+      "mesh_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/segments/raw/auto_grown_20250925223153537/",
+      "ct_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20250820131727-9.362um-1.2m-113keV-masked.zarr/0",
+      "pixel_um": 9.362,
+      "area_cm2": 2.9154915809631348,
+      "derived_voxel_um": 9.36200049667578,
+      "acquisition": "registered native geometric surface",
+      "scale": [
+        0.05000000074505806,
+        0.05000000074505806
+      ],
+      "bbox": [
+        [
+          1569.711181640625,
+          2694.619873046875,
+          7317.90234375
+        ],
+        [
+          3372.281494140625,
+          3601.297119140625,
+          9498.568359375
+        ]
+      ]
+    },
+    "center_xy": [
+      1268,
+      956
+    ],
+    "position_zyx": [
+      8710.0751953125,
+      3351.7607421875,
+      2491.572021484375
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 9,
+    "distance_to_previous_mm": 6.279109956944319
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2262_3183_3906",
+    "center_xy": [
+      605,
+      605
+    ],
+    "position_zyx": [
+      3296.2763671875,
+      3031.623046875,
+      2158.300048828125
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 10,
+    "distance_to_previous_mm": 4.694090739968805
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "PHerc1203_3405_4529_9488",
+    "center_xy": [
+      1541,
+      1541
+    ],
+    "position_zyx": [
+      10090.8896484375,
+      4709.82373046875,
+      3453.6640625
+    ],
+    "width": 768,
+    "grid_valid": 0.9998813205295138,
+    "selected_index": 10,
+    "distance_to_previous_mm": 6.007975734877649
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_1821_3308_3710",
+    "center_xy": [
+      1073,
+      1073
+    ],
+    "position_zyx": [
+      3818.2890625,
+      3317.705322265625,
+      1826.755615234375
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 11,
+    "distance_to_previous_mm": 4.244813773975481
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "PHerc1203_1894_3594_9489",
+    "center_xy": [
+      1073,
+      1073
+    ],
+    "position_zyx": [
+      9518.423828125,
+      3587.672119140625,
+      1884.134765625
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 11,
+    "distance_to_previous_mm": 5.505688842205896
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2639_2833_3836",
+    "center_xy": [
+      1073,
+      1073
+    ],
+    "position_zyx": [
+      3820.687255859375,
+      2831.124755859375,
+      2638.77734375
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 12,
+    "distance_to_previous_mm": 4.15613824359789
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "auto_grown_20251005221856743",
+    "meta": {
+      "id": "auto_grown_20251005221856743",
+      "scroll": "PHerc1203",
+      "scan": "20250820131727",
+      "mesh_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/segments/raw/auto_grown_20251005221856743/",
+      "ct_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20250820131727-9.362um-1.2m-113keV-masked.zarr/0",
+      "pixel_um": 9.362,
+      "area_cm2": 11.792692235862566,
+      "derived_voxel_um": 9.362,
+      "acquisition": "registered native geometric surface",
+      "scale": [
+        0.05000000074505806,
+        0.05000000074505806
+      ],
+      "bbox": [
+        [
+          2066.233154296875,
+          3308.672119140625,
+          5402.6962890625
+        ],
+        [
+          4378.08154296875,
+          4232.59765625,
+          9077.2998046875
+        ]
+      ]
+    },
+    "center_xy": [
+      1697,
+      3647
+    ],
+    "position_zyx": [
+      8633.275390625,
+      4029.166015625,
+      2633.97216796875
+    ],
+    "width": 768,
+    "grid_valid": 0.9982435438368056,
+    "selected_index": 12,
+    "distance_to_previous_mm": 4.8039694648327975
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2661_3031_4170",
+    "center_xy": [
+      1541,
+      1541
+    ],
+    "position_zyx": [
+      4740.298828125,
+      3059.274658203125,
+      2413.28857421875
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 13,
+    "distance_to_previous_mm": 3.56509003038423
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "auto_grown_20251005231446965",
+    "meta": {
+      "id": "auto_grown_20251005231446965",
+      "scroll": "PHerc1203",
+      "scan": "20250820131727",
+      "mesh_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/segments/raw/auto_grown_20251005231446965/",
+      "ct_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20250820131727-9.362um-1.2m-113keV-masked.zarr/0",
+      "pixel_um": 9.362,
+      "area_cm2": 12.531226497266319,
+      "derived_voxel_um": 9.362,
+      "acquisition": "registered native geometric surface",
+      "scale": [
+        0.05000000074505806,
+        0.05000000074505806
+      ],
+      "bbox": [
+        [
+          907.8822631835938,
+          3318.0556640625,
+          5404.654296875
+        ],
+        [
+          4634.10595703125,
+          4758.0732421875,
+          9443.453125
+        ]
+      ]
+    },
+    "center_xy": [
+      2555,
+      3920
+    ],
+    "position_zyx": [
+      8779.5263671875,
+      4594.291015625,
+      2292.255859375
+    ],
+    "width": 768,
+    "grid_valid": 0.9996303982204862,
+    "selected_index": 13,
+    "distance_to_previous_mm": 4.265562211618717
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2272_3187_3892",
+    "center_xy": [
+      1541,
+      1541
+    ],
+    "position_zyx": [
+      4319.26708984375,
+      3485.8681640625,
+      2119.293212890625
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 14,
+    "distance_to_previous_mm": 3.3247039943035817
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "PHerc1203_3405_4529_9488",
+    "center_xy": [
+      605,
+      605
+    ],
+    "position_zyx": [
+      8909.7080078125,
+      4807.18212890625,
+      3486.541015625
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 14,
+    "distance_to_previous_mm": 2.750685090711748
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2231_2721_3715",
+    "center_xy": [
+      1541,
+      1541
+    ],
+    "position_zyx": [
+      4145.53857421875,
+      3136.0341796875,
+      1994.1251220703125
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 15,
+    "distance_to_previous_mm": 3.0082870088600857
+  },
+  {
+    "scroll": "PHerc1203",
+    "tag": "auto_grown_20251005231446965",
+    "meta": {
+      "id": "auto_grown_20251005231446965",
+      "scroll": "PHerc1203",
+      "scan": "20250820131727",
+      "mesh_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/segments/raw/auto_grown_20251005231446965/",
+      "ct_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20250820131727-9.362um-1.2m-113keV-masked.zarr/0",
+      "pixel_um": 9.362,
+      "area_cm2": 12.531226497266319,
+      "derived_voxel_um": 9.362,
+      "acquisition": "registered native geometric surface",
+      "scale": [
+        0.05000000074505806,
+        0.05000000074505806
+      ],
+      "bbox": [
+        [
+          907.8822631835938,
+          3318.0556640625,
+          5404.654296875
+        ],
+        [
+          4634.10595703125,
+          4758.0732421875,
+          9443.453125
+        ]
+      ]
+    },
+    "center_xy": [
+      3140,
+      3608
+    ],
+    "position_zyx": [
+      8613.716796875,
+      4382.39697265625,
+      2983.276611328125
+    ],
+    "width": 768,
+    "grid_valid": 0.9998948838975694,
+    "selected_index": 15,
+    "distance_to_previous_mm": 2.712622223682665
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2206_3145_3985",
+    "center_xy": [
+      605,
+      605
+    ],
+    "position_zyx": [
+      3435.085693359375,
+      3149.55615234375,
+      1935.4658203125
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 16,
+    "distance_to_previous_mm": 2.694424258292358
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2198_3140_3997",
+    "center_xy": [
+      1541,
+      1541
+    ],
+    "position_zyx": [
+      4516.4287109375,
+      3035.678466796875,
+      2242.82275390625
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 17,
+    "distance_to_previous_mm": 2.643554382243704
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2272_3187_3892",
+    "center_xy": [
+      605,
+      605
+    ],
+    "position_zyx": [
+      3363.19970703125,
+      2837.013916015625,
+      2453.287841796875
+    ],
+    "width": 768,
+    "grid_valid": 0.9999881320529513,
+    "selected_index": 18,
+    "distance_to_previous_mm": 2.613341961902971
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2231_2721_3715",
+    "center_xy": [
+      605,
+      605
+    ],
+    "position_zyx": [
+      3959.1279296875,
+      2764.56787109375,
+      2309.710205078125
+    ],
+    "width": 768,
+    "grid_valid": 0.9997660319010416,
+    "selected_index": 19,
+    "distance_to_previous_mm": 2.4517292797404426
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2286_3200_3871",
+    "center_xy": [
+      605,
+      605
+    ],
+    "position_zyx": [
+      3331.877685546875,
+      3431.04443359375,
+      1880.3973388671875
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 20,
+    "distance_to_previous_mm": 2.2958027620472796
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2593_2775_3853",
+    "center_xy": [
+      1541,
+      1541
+    ],
+    "position_zyx": [
+      4444.93115234375,
+      3003.63427734375,
+      2802.3740234375
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 21,
+    "distance_to_previous_mm": 2.0314589658657733
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2215_3151_3970",
+    "center_xy": [
+      1541,
+      1541
+    ],
+    "position_zyx": [
+      4487.81591796875,
+      3266.581298828125,
+      2257.198486328125
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 22,
+    "distance_to_previous_mm": 1.8874551641733197
+  },
+  {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2189_3132_4008",
+    "center_xy": [
+      605,
+      605
+    ],
+    "position_zyx": [
+      3484.0234375,
+      2774.14453125,
+      2309.620849609375
+    ],
+    "width": 768,
+    "grid_valid": 0.9999711778428819,
+    "selected_index": 23,
+    "distance_to_previous_mm": 1.8533718998821018
+  }
+]

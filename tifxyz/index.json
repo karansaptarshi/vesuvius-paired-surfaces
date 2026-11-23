@@ -1,0 +1,105 @@
+{
+  "upstream_reader": "vesuvius.tifxyz.read_tifxyz with its validation and mask loading enabled",
+  "entries": [
+    {
+      "scroll": "PHerc0846A",
+      "surface": "trace",
+      "scan": "listed",
+      "path": "PHerc0846A/trace-listed",
+      "volume": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20250728152254-9.362um-1.2m-113keV-masked.zarr/",
+      "vertices": 36864,
+      "maximum_coordinate_difference_voxels": 0.0,
+      "nominal_sampling_um": 38.4
+    },
+    {
+      "scroll": "PHerc0846A",
+      "surface": "trace",
+      "scan": "rescan",
+      "path": "PHerc0846A/trace-rescan",
+      "volume": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20260319102732-2.403um-0.2m-77keV-masked.zarr/",
+      "vertices": 36864,
+      "maximum_coordinate_difference_voxels": 0.00048827810132934246,
+      "nominal_sampling_um": 38.4
+    },
+    {
+      "scroll": "PHerc0846A",
+      "surface": "positive",
+      "scan": "listed",
+      "path": "PHerc0846A/positive-listed",
+      "volume": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20250728152254-9.362um-1.2m-113keV-masked.zarr/",
+      "vertices": 65504,
+      "maximum_coordinate_difference_voxels": 0.0,
+      "nominal_sampling_um": 38.4
+    },
+    {
+      "scroll": "PHerc0846A",
+      "surface": "positive",
+      "scan": "rescan",
+      "path": "PHerc0846A/positive-rescan",
+      "volume": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20260319102732-2.403um-0.2m-77keV-masked.zarr/",
+      "vertices": 65504,
+      "maximum_coordinate_difference_voxels": 0.0,
+      "nominal_sampling_um": 38.4
+    },
+    {
+      "scroll": "PHerc0846A",
+      "surface": "centre",
+      "scan": "listed",
+      "path": "PHerc0846A/centre-listed",
+      "volume": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20250728152254-9.362um-1.2m-113keV-masked.zarr/",
+      "vertices": 65536,
+      "maximum_coordinate_difference_voxels": 0.0,
+      "nominal_sampling_um": 38.4
+    },
+    {
+      "scroll": "PHerc0846A",
+      "surface": "centre",
+      "scan": "rescan",
+      "path": "PHerc0846A/centre-rescan",
+      "volume": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20260319102732-2.403um-0.2m-77keV-masked.zarr/",
+      "vertices": 65536,
+      "maximum_coordinate_difference_voxels": 0.0,
+      "nominal_sampling_um": 38.4
+    },
+    {
+      "scroll": "PHerc0846A",
+      "surface": "negative",
+      "scan": "listed",
+      "path": "PHerc0846A/negative-listed",
+      "volume": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20250728152254-9.362um-1.2m-113keV-masked.zarr/",
+      "vertices": 65510,
+      "maximum_coordinate_difference_voxels": 0.0,
+      "nominal_sampling_um": 38.4
+    },
+    {
+      "scroll": "PHerc0846A",
+      "surface": "negative",
+      "scan": "rescan",
+      "path": "PHerc0846A/negative-rescan",
+      "volume": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20260319102732-2.403um-0.2m-77keV-masked.zarr/",
+      "vertices": 65510,
+      "maximum_coordinate_difference_voxels": 0.0,
+      "nominal_sampling_um": 38.4
+    },
+    {
+      "scroll": "PHerc1203",
+      "surface": "trace",
+      "scan": "listed",
+      "path": "PHerc1203/trace-listed",
+      "volume": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20250820131727-9.362um-1.2m-113keV-masked.zarr/",
+      "vertices": 36864,
+      "maximum_coordinate_difference_voxels": 0.0,
+      "nominal_sampling_um": 38.4
+    },
+    {
+      "scroll": "PHerc1203",
+      "surface": "trace",
+      "scan": "rescan",
+      "path": "PHerc1203/trace-rescan",
+      "volume": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20260319130212-2.403um-0.2m-77keV-masked.zarr/",
+      "vertices": 36864,
+      "maximum_coordinate_difference_voxels": 0.0009763452180777676,
+      "nominal_sampling_um": 38.4
+    }
+  ]
+}

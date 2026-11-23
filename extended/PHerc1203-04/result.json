@@ -1,0 +1,48 @@
+{
+  "status": "unverified registration",
+  "reason": "one or more native landmarks failed concordance",
+  "planned": {
+    "scroll": "PHerc1203",
+    "tag": "auto_grown_20251005230830031",
+    "meta": {
+      "id": "auto_grown_20251005230830031",
+      "scroll": "PHerc1203",
+      "scan": "20250820131727",
+      "mesh_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/segments/raw/auto_grown_20251005230830031/",
+      "ct_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20250820131727-9.362um-1.2m-113keV-masked.zarr/0",
+      "pixel_um": 9.362,
+      "area_cm2": 16.09939659345846,
+      "derived_voxel_um": 9.362,
+      "acquisition": "registered native geometric surface",
+      "scale": [
+        0.05000000074505806,
+        0.05000000074505806
+      ],
+      "bbox": [
+        [
+          1064.31494140625,
+          4380.5859375,
+          5819.12939453125
+        ],
+        [
+          5322.908203125,
+          5119.833984375,
+          10150.41796875
+        ]
+      ]
+    },
+    "center_xy": [
+      2126,
+      3413
+    ],
+    "position_zyx": [
+      8730.830078125,
+      4823.86474609375,
+      3967.795654296875
+    ],
+    "width": 768,
+    "grid_valid": 0.9999932183159722,
+    "selected_index": 4,
+    "distance_to_previous_mm": 8.95557637356063
+  }
+}

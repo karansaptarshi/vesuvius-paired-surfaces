@@ -1,0 +1,9 @@
+{
+  "partial_overlap": {
+    "valid_donor_vertices": 63,
+    "valid_target_vertices": 31,
+    "out_of_bounds_removed": 32,
+    "invalid_source_vertices_preserved": 1
+  },
+  "no_overlap": "rejected without writing an empty surface"
+}

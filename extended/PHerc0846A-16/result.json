@@ -1,0 +1,21 @@
+{
+  "status": "unverified registration",
+  "reason": "one or more native landmarks failed concordance",
+  "planned": {
+    "scroll": "PHerc0846A",
+    "tag": "PHerc0846A_2206_3145_3985",
+    "center_xy": [
+      605,
+      605
+    ],
+    "position_zyx": [
+      3435.085693359375,
+      3149.55615234375,
+      1935.4658203125
+    ],
+    "width": 768,
+    "grid_valid": 1.0,
+    "selected_index": 16,
+    "distance_to_previous_mm": 2.694424258292358
+  }
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "scroll": "PHerc0846A",
+    "surface": "trace",
+    "acquisition": "listed",
+    "pyramid_level": 0,
+    "stored_grid_origin": [
+      80,
+      80
+    ],
+    "pixels": 1024,
+    "median_u8_error": 0.0,
+    "max_u8_error": 0.0
+  },
+  {
+    "scroll": "PHerc0846A",
+    "surface": "trace",
+    "acquisition": "rescan",
+    "pyramid_level": 2,
+    "stored_grid_origin": [
+      80,
+      80
+    ],
+    "pixels": 1024,
+    "median_u8_error": 0.0,
+    "max_u8_error": 1.0,
+    "paired_CT_Pearson": 0.9368062106715322
+  },
+  {
+    "scroll": "PHerc1203",
+    "surface": "trace",
+    "acquisition": "listed",
+    "pyramid_level": 0,
+    "stored_grid_origin": [
+      80,
+      80
+    ],
+    "pixels": 1024,
+    "median_u8_error": 0.0,
+    "max_u8_error": 0.0
+  },
+  {
+    "scroll": "PHerc1203",
+    "surface": "trace",
+    "acquisition": "rescan",
+    "pyramid_level": 2,
+    "stored_grid_origin": [
+      80,
+      80
+    ],
+    "pixels": 1024,
+    "median_u8_error": 0.0,
+    "max_u8_error": 1.0,
+    "paired_CT_Pearson": 0.9312495599340991
+  },
+  {
+    "scroll": "PHerc0846A",
+    "surface": "centre",
+    "acquisition": "listed",
+    "pyramid_level": 0,
+    "stored_grid_origin": [
+      112,
+      112
+    ],
+    "pixels": 1024
+  },
+  {
+    "scroll": "PHerc0846A",
+    "surface": "centre",
+    "acquisition": "rescan",
+    "pyramid_level": 2,
+    "stored_grid_origin": [
+      112,
+      112
+    ],
+    "pixels": 1024,
+    "paired_CT_Pearson": 0.9126785470679246
+  },
+  {
+    "scroll": "PHerc0846A",
+    "surface": "negative",
+    "acquisition": "listed",
+    "pyramid_level": 0,
+    "stored_grid_origin": [
+      112,
+      112
+    ],
+    "pixels": 1024
+  },
+  {
+    "scroll": "PHerc0846A",
+    "surface": "negative",
+    "acquisition": "rescan",
+    "pyramid_level": 2,
+    "stored_grid_origin": [
+      112,
+      112
+    ],
+    "pixels": 1024,
+    "paired_CT_Pearson": 0.9091334303503873
+  },
+  {
+    "scroll": "PHerc0846A",
+    "surface": "positive",
+    "acquisition": "listed",
+    "pyramid_level": 0,
+    "stored_grid_origin": [
+      112,
+      112
+    ],
+    "pixels": 1024
+  },
+  {
+    "scroll": "PHerc0846A",
+    "surface": "positive",
+    "acquisition": "rescan",
+    "pyramid_level": 2,
+    "stored_grid_origin": [
+      112,
+      112
+    ],
+    "pixels": 1024,
+    "paired_CT_Pearson": 0.9218983818541945
+  }
+]

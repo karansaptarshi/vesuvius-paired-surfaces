@@ -1,0 +1,25 @@
+{
+  "uuid": "855d464a-db99-532e-a88d-d86168c00568",
+  "scale": [
+    0.062578125,
+    0.062578125
+  ],
+  "type": "seg",
+  "format": "tifxyz",
+  "bbox": [
+    [
+      6531.58447265625,
+      10386.9736328125,
+      5511.91162109375
+    ],
+    [
+      10798.9560546875,
+      13950.4296875,
+      10240.8369140625
+    ]
+  ],
+  "target_volume": "20260319102732-2.403um-0.2m-77keV-masked.zarr",
+  "volume_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20260319102732-2.403um-0.2m-77keV-masked.zarr/",
+  "description": "PHerc0846A CT ridge near centre",
+  "source_surface": "https://github.com/ketchupbyheinz/vesuvius-scroll-survey/tree/1f12c1ceb14c1f24acc48249eaad60bcdf541721/results/meshes/PHerc0846A_2246_3173_3928"
+}

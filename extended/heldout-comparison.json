@@ -1,0 +1,499 @@
+{
+  "selection": "Two withheld points per attempted site, after fitting four points. All completed sites and the subset passing the independent match and error checks are listed separately. At failed registrations the estimated landmark shifts may themselves be unreliable.",
+  "all_recorded_sites": {
+    "sites": 40,
+    "withheld_landmarks_with_shifts": 80,
+    "median_global_um": 59.91682537323554,
+    "median_corrected_um": 3.4501675039720494,
+    "corrected_below_global": 80
+  },
+  "verified_sites": {
+    "sites": 37,
+    "withheld_landmarks_with_shifts": 74,
+    "median_global_um": 61.14727996117733,
+    "median_corrected_um": 3.568902553359205,
+    "corrected_below_global": 74
+  },
+  "sites": [
+    {
+      "site": "PHerc0846A-00",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        75.24312249233921,
+        71.96914671791431
+      ],
+      "corrected_um": [
+        3.73178053591511,
+        3.719293990082349
+      ]
+    },
+    {
+      "site": "PHerc0846A-01",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        70.79480003026765,
+        67.9382122293375
+      ],
+      "corrected_um": [
+        7.071638371035863,
+        4.664700309670911
+      ]
+    },
+    {
+      "site": "PHerc0846A-02",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        56.89769379770636,
+        54.44356845533613
+      ],
+      "corrected_um": [
+        2.2287199343631547,
+        1.1523596395572033
+      ]
+    },
+    {
+      "site": "PHerc0846A-03",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        75.46139930044491,
+        76.13623887521712
+      ],
+      "corrected_um": [
+        4.446100836844682,
+        3.033308781349737
+      ]
+    },
+    {
+      "site": "PHerc0846A-04",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        74.1589655506873,
+        79.71469184879753
+      ],
+      "corrected_um": [
+        6.830007412486069,
+        6.4155562684902305
+      ]
+    },
+    {
+      "site": "PHerc0846A-05",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        71.42638777852403,
+        67.70676832527127
+      ],
+      "corrected_um": [
+        8.180117966811851,
+        5.197690151097658
+      ]
+    },
+    {
+      "site": "PHerc0846A-06",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        66.88558890685931,
+        68.30238776068582
+      ],
+      "corrected_um": [
+        0.8589158914580246,
+        2.853558118004103
+      ]
+    },
+    {
+      "site": "PHerc0846A-07",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        61.84821669520055,
+        59.387307519316956
+      ],
+      "corrected_um": [
+        1.259335930532027,
+        3.2363941048128484
+      ]
+    },
+    {
+      "site": "PHerc0846A-08",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        58.01283175503352,
+        54.24474525389113
+      ],
+      "corrected_um": [
+        4.144192879262451,
+        7.834424529508985
+      ]
+    },
+    {
+      "site": "PHerc0846A-09",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        86.65817411335262,
+        78.39740390354473
+      ],
+      "corrected_um": [
+        7.399973201958032,
+        5.712530210324823
+      ]
+    },
+    {
+      "site": "PHerc0846A-10",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        75.46606354654011,
+        75.33834543513375
+      ],
+      "corrected_um": [
+        5.054432641819195,
+        1.948414579450923
+      ]
+    },
+    {
+      "site": "PHerc0846A-11",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        67.93857822419798,
+        71.86205684233407
+      ],
+      "corrected_um": [
+        1.8647198373256901,
+        2.634795436268666
+      ]
+    },
+    {
+      "site": "PHerc0846A-12",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        69.06646177963098,
+        69.19262873077295
+      ],
+      "corrected_um": [
+        4.564663933016002,
+        4.475070661700708
+      ]
+    },
+    {
+      "site": "PHerc0846A-13",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        63.90282058807867,
+        55.54330981815639
+      ],
+      "corrected_um": [
+        6.393675034915902,
+        5.806741058683707
+      ]
+    },
+    {
+      "site": "PHerc0846A-14",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        64.87799312505356,
+        62.80814190573565
+      ],
+      "corrected_um": [
+        3.3960588292501694,
+        3.2999548342533482
+      ]
+    },
+    {
+      "site": "PHerc0846A-15",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        69.32651703089846,
+        68.04665686772756
+      ],
+      "corrected_um": [
+        4.89983597460873,
+        3.4314413478897583
+      ]
+    },
+    {
+      "site": "PHerc0846A-16",
+      "status": "unverified registration",
+      "global_um": [
+        71.6860797970178,
+        75.32188616804194
+      ],
+      "corrected_um": [
+        3.6490960471538387,
+        3.83810265499421
+      ]
+    },
+    {
+      "site": "PHerc0846A-17",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        73.28661216003387,
+        66.51680416243406
+      ],
+      "corrected_um": [
+        10.484835880676503,
+        3.7175138934868492
+      ]
+    },
+    {
+      "site": "PHerc0846A-18",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        73.47838271795621,
+        72.26380899759273
+      ],
+      "corrected_um": [
+        3.389377336223539,
+        2.90799486685004
+      ]
+    },
+    {
+      "site": "PHerc0846A-19",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        78.63693590909365,
+        78.52224882823013
+      ],
+      "corrected_um": [
+        4.067417000119004,
+        4.834617966433508
+      ]
+    },
+    {
+      "site": "PHerc0846A-20",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        68.15778326877084,
+        71.51451698433056
+      ],
+      "corrected_um": [
+        1.6290706615917976,
+        9.086448567764892
+      ]
+    },
+    {
+      "site": "PHerc0846A-21",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        57.080244580787806,
+        56.49643117297424
+      ],
+      "corrected_um": [
+        2.4942033975038425,
+        4.14330341663662
+      ]
+    },
+    {
+      "site": "PHerc0846A-22",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        65.59311205781314,
+        60.446343227154124
+      ],
+      "corrected_um": [
+        2.945199123249578,
+        2.100086177444758
+      ]
+    },
+    {
+      "site": "PHerc0846A-23",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        79.0987974398778,
+        76.4203443183058
+      ],
+      "corrected_um": [
+        3.67744440802259,
+        5.234578082810462
+      ]
+    },
+    {
+      "site": "PHerc1203-00",
+      "status": "unverified registration",
+      "global_um": [
+        43.53315917779363,
+        48.56871530038783
+      ],
+      "corrected_um": [
+        2.481748475607649,
+        1.7585845097378479
+      ]
+    },
+    {
+      "site": "PHerc1203-01",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        29.34117565854512,
+        30.034729400541107
+      ],
+      "corrected_um": [
+        7.254984755130058,
+        7.245298078486375
+      ]
+    },
+    {
+      "site": "PHerc1203-02",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        48.929569833086,
+        41.4580952363797
+      ],
+      "corrected_um": [
+        4.313201262380392,
+        1.1501996922010924
+      ]
+    },
+    {
+      "site": "PHerc1203-03",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        14.463290980400059,
+        15.86093462056997
+      ],
+      "corrected_um": [
+        4.272444381799267,
+        3.668911446664069
+      ]
+    },
+    {
+      "site": "PHerc1203-04",
+      "status": "unverified registration",
+      "global_um": [
+        29.376737564619585,
+        27.92599983648518
+      ],
+      "corrected_um": [
+        1.925394109727737,
+        1.5442538470880163
+      ]
+    },
+    {
+      "site": "PHerc1203-05",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        28.450975863458112,
+        31.388891506026013
+      ],
+      "corrected_um": [
+        2.284274669091964,
+        0.4352638416463379
+      ]
+    },
+    {
+      "site": "PHerc1203-06",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        38.01745478541695,
+        37.55281243886788
+      ],
+      "corrected_um": [
+        4.5386349255219685,
+        2.192018247918412
+      ]
+    },
+    {
+      "site": "PHerc1203-07",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        4.943469040196357,
+        5.206730408886063
+      ],
+      "corrected_um": [
+        1.3911152123456672,
+        1.9898049034069998
+      ]
+    },
+    {
+      "site": "PHerc1203-08",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        30.0318151017795,
+        29.426360355250957
+      ],
+      "corrected_um": [
+        2.1024421425130586,
+        1.9792187299025585
+      ]
+    },
+    {
+      "site": "PHerc1203-09",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        27.71116521181309,
+        24.48895834559292
+      ],
+      "corrected_um": [
+        1.9813183099279439,
+        1.6711775331230736
+      ]
+    },
+    {
+      "site": "PHerc1203-10",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        26.257417665799892,
+        27.607522348594635
+      ],
+      "corrected_um": [
+        3.2143003886351322,
+        4.911277073416319
+      ]
+    },
+    {
+      "site": "PHerc1203-11",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        36.86537700366767,
+        36.522488320384184
+      ],
+      "corrected_um": [
+        0.6812450794545329,
+        1.1358002075809879
+      ]
+    },
+    {
+      "site": "PHerc1203-12",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        18.53780631810579,
+        19.776797460664607
+      ],
+      "corrected_um": [
+        5.377288762111251,
+        6.74197663344222
+      ]
+    },
+    {
+      "site": "PHerc1203-13",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        33.25627985504735,
+        27.056244863828613
+      ],
+      "corrected_um": [
+        2.1258474471525344,
+        3.468893660054341
+      ]
+    },
+    {
+      "site": "PHerc1203-14",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        20.085502856087686,
+        21.255506640840785
+      ],
+      "corrected_um": [
+        2.714257901630539,
+        4.23993245285854
+      ]
+    },
+    {
+      "site": "PHerc1203-15",
+      "status": "paired scans ready for visual reading",
+      "global_um": [
+        12.046502557649829,
+        9.186324736095441
+      ],
+      "corrected_um": [
+        1.8077019026338341,
+        2.1858003600958344
+      ]
+    }
+  ]
+}

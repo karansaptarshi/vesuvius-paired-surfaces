@@ -1,0 +1,25 @@
+{
+  "uuid": "3b7a6731-9011-5d8f-bf7a-0a168aa7d8ab",
+  "scale": [
+    0.062578125,
+    0.062578125
+  ],
+  "type": "seg",
+  "format": "tifxyz",
+  "bbox": [
+    [
+      11458.5283203125,
+      17103.650390625,
+      4250.5478515625
+    ],
+    [
+      15453.779296875,
+      18691.96875,
+      7937.4921875
+    ]
+  ],
+  "target_volume": "20260319130212-2.403um-0.2m-77keV-masked.zarr",
+  "volume_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20260319130212-2.403um-0.2m-77keV-masked.zarr/",
+  "description": "PHerc1203 locally calibrated named trace",
+  "source_surface": "a6e9233b-cc92-531b-a473-87344efb685b"
+}

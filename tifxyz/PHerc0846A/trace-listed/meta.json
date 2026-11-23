@@ -1,0 +1,25 @@
+{
+  "uuid": "3b95740f-a47f-5bf1-a3cf-2cc7648ee0e1",
+  "scale": [
+    0.24380208333333334,
+    0.24380208333333334
+  ],
+  "type": "seg",
+  "format": "tifxyz",
+  "bbox": [
+    [
+      1841.8389892578125,
+      2765.38427734375,
+      3443.824462890625
+    ],
+    [
+      2613.108642578125,
+      3504.48193359375,
+      4341.02490234375
+    ]
+  ],
+  "target_volume": "20250728152254-9.362um-1.2m-113keV-masked.zarr",
+  "volume_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20250728152254-9.362um-1.2m-113keV-masked.zarr/",
+  "description": "PHerc0846A reference pilot trace",
+  "source_surface": "https://github.com/ketchupbyheinz/vesuvius-scroll-survey/tree/1f12c1ceb14c1f24acc48249eaad60bcdf541721/results/meshes/PHerc0846A_2246_3173_3928"
+}

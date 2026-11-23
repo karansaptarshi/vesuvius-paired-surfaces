@@ -1,0 +1,27 @@
+Acquisitions
+
+Giorgio Angelotti, Stephen Parsons, Sean Johnson, Elian Rafael Dal Prà, Johannes Rudolph, Paul Tafforeau, Alessandro Mirone, Paul Henderson, Hendrik Schilling, Forrest McDonald, David Josey, Youssef Nader, C. Seth Parker, and W. Brent Seales. Vesuvius Challenge – CT Scans of Herculaneum Papyri. Vesuvius Challenge.
+https://scrollprize.org/data
+https://scrollprize.org/data_browser
+
+The provider specifies Creative Commons Attribution–NonCommercial 4.0 unless an individual asset specifies otherwise. CT images here were resampled, contrast-scaled, and combined across acquisitions. The predictions and sheet coordinates derive from those scans. Each coordinates.json links to the original acquisitions.
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Pilot surfaces
+
+Community sheet coordinates come from ketchupbyheinz/vesuvius-scroll-survey, revision 1f12c1ceb14c1f24acc48249eaad60bcdf541721. The pilot footprints were resampled onto a 9.6 µm atlas. The source tags appear in each local-match.json. The archive adds local cross-scan calibration, coordinate conversion, held-out tests, and comparison panels.
+https://github.com/ketchupbyheinz/vesuvius-scroll-survey/tree/1f12c1ceb14c1f24acc48249eaad60bcdf541721/results/meshes
+
+Prior work
+
+Independent investigators also studied cross-acquisition alignment of PHerc. 1203. The supplied pilot transforms and withheld measurements above were computed directly from the two source scans.
+https://github.com/7jycwjmbfn-eng/pherc0139-physical-audit
+
+TIFXYZ readers, writers and community data terms
+
+The Python Vesuvius library implements the native TIFXYZ format. Ten surfaces were written and read back with the MIT-licensed implementation at this revision.
+https://github.com/ScrollPrize/villa/tree/e0bbb8b40a2db58b1d71864f286eb85717e59e64/vesuvius/src/vesuvius/tifxyz
+https://github.com/ScrollPrize/open-data
+
+The community surface provider explicitly licenses the material in results/, including the source meshes used here, under CC BY-NC 4.0. The paired TIFXYZ data resample those meshes and transform them between acquisitions. The neighboring ridges also use local CT density.
+https://github.com/ketchupbyheinz/vesuvius-scroll-survey/blob/1f12c1ceb14c1f24acc48249eaad60bcdf541721/LICENSE

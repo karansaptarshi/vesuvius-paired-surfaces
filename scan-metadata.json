@@ -1,0 +1,874 @@
+{
+  "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20250820131727-9.362um-1.2m-113keV-masked.zarr/": {
+    ".zattrs": {
+      "multiscales": [
+        {
+          "axes": [
+            {
+              "name": "z",
+              "type": "space"
+            },
+            {
+              "name": "y",
+              "type": "space"
+            },
+            {
+              "name": "x",
+              "type": "space"
+            }
+          ],
+          "datasets": [
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "0"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    2.0,
+                    2.0,
+                    2.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "1"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    4.0,
+                    4.0,
+                    4.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "2"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    8.0,
+                    8.0,
+                    8.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "3"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    16.0,
+                    16.0,
+                    16.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "4"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    32.0,
+                    32.0,
+                    32.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "5"
+            }
+          ],
+          "name": "/",
+          "version": "0.4"
+        }
+      ]
+    },
+    "0/.zarray": {
+      "shape": [
+        18977,
+        6844,
+        6844
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "1/.zarray": {
+      "shape": [
+        9489,
+        3422,
+        3422
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "2/.zarray": {
+      "shape": [
+        4745,
+        1711,
+        1711
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "3/.zarray": {
+      "shape": [
+        2373,
+        856,
+        856
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "4/.zarray": {
+      "shape": [
+        1187,
+        428,
+        428
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "5/.zarray": {
+      "shape": [
+        594,
+        214,
+        214
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    }
+  },
+  "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1203/volumes/20260319130212-2.403um-0.2m-77keV-masked.zarr/": {
+    ".zattrs": {
+      "multiscales": [
+        {
+          "axes": [
+            {
+              "name": "z",
+              "type": "space"
+            },
+            {
+              "name": "y",
+              "type": "space"
+            },
+            {
+              "name": "x",
+              "type": "space"
+            }
+          ],
+          "datasets": [
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "0"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    2.0,
+                    2.0,
+                    2.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "1"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    4.0,
+                    4.0,
+                    4.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "2"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    8.0,
+                    8.0,
+                    8.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "3"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    16.0,
+                    16.0,
+                    16.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "4"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    32.0,
+                    32.0,
+                    32.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "5"
+            }
+          ],
+          "name": "/",
+          "version": "0.4"
+        }
+      ]
+    },
+    "0/.zarray": {
+      "shape": [
+        15137,
+        26493,
+        26493
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "1/.zarray": {
+      "shape": [
+        7569,
+        13247,
+        13247
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "2/.zarray": {
+      "shape": [
+        3785,
+        6624,
+        6624
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "3/.zarray": {
+      "shape": [
+        1893,
+        3312,
+        3312
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "4/.zarray": {
+      "shape": [
+        947,
+        1656,
+        1656
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "5/.zarray": {
+      "shape": [
+        474,
+        828,
+        828
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    }
+  },
+  "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20250728152254-9.362um-1.2m-113keV-masked.zarr/": {
+    ".zattrs": {
+      "multiscales": [
+        {
+          "axes": [
+            {
+              "name": "z",
+              "type": "space"
+            },
+            {
+              "name": "y",
+              "type": "space"
+            },
+            {
+              "name": "x",
+              "type": "space"
+            }
+          ],
+          "datasets": [
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "0"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    2.0,
+                    2.0,
+                    2.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "1"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    4.0,
+                    4.0,
+                    4.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "2"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    8.0,
+                    8.0,
+                    8.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "3"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    16.0,
+                    16.0,
+                    16.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "4"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    32.0,
+                    32.0,
+                    32.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "5"
+            }
+          ],
+          "name": "/",
+          "version": "0.4"
+        }
+      ]
+    },
+    "0/.zarray": {
+      "shape": [
+        14019,
+        7726,
+        7726
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "1/.zarray": {
+      "shape": [
+        7010,
+        3863,
+        3863
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "2/.zarray": {
+      "shape": [
+        3505,
+        1932,
+        1932
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "3/.zarray": {
+      "shape": [
+        1753,
+        966,
+        966
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "4/.zarray": {
+      "shape": [
+        877,
+        483,
+        483
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "5/.zarray": {
+      "shape": [
+        439,
+        242,
+        242
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    }
+  },
+  "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20260319102732-2.403um-0.2m-77keV-masked.zarr/": {
+    ".zattrs": {
+      "multiscales": [
+        {
+          "axes": [
+            {
+              "name": "z",
+              "type": "space"
+            },
+            {
+              "name": "y",
+              "type": "space"
+            },
+            {
+              "name": "x",
+              "type": "space"
+            }
+          ],
+          "datasets": [
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "0"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    2.0,
+                    2.0,
+                    2.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "1"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    4.0,
+                    4.0,
+                    4.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "2"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    8.0,
+                    8.0,
+                    8.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "3"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    16.0,
+                    16.0,
+                    16.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "4"
+            },
+            {
+              "coordinateTransformations": [
+                {
+                  "scale": [
+                    32.0,
+                    32.0,
+                    32.0
+                  ],
+                  "type": "scale"
+                }
+              ],
+              "path": "5"
+            }
+          ],
+          "name": "/",
+          "version": "0.4"
+        }
+      ]
+    },
+    "0/.zarray": {
+      "shape": [
+        15137,
+        29587,
+        29587
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "1/.zarray": {
+      "shape": [
+        7569,
+        14794,
+        14794
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "2/.zarray": {
+      "shape": [
+        3785,
+        7397,
+        7397
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "3/.zarray": {
+      "shape": [
+        1893,
+        3699,
+        3699
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "4/.zarray": {
+      "shape": [
+        947,
+        1850,
+        1850
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "5/.zarray": {
+      "shape": [
+        474,
+        925,
+        925
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "mesh": "https://github.com/ketchupbyheinz/vesuvius-scroll-survey/tree/1f12c1ceb14c1f24acc48249eaad60bcdf541721/results/meshes/PHerc0846A_2246_3173_3928",
+  "atlas_center_xy": [
+    1073,
+    1073
+  ],
+  "atlas_pitch_um": 9.6,
+  "listed": {
+    "zarr": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20250728152254-9.362um-1.2m-113keV-masked.zarr/",
+    "shape_zyx": [
+      14019,
+      7726,
+      7726
+    ],
+    "voxel_um": 9.362
+  },
+  "rescan": {
+    "zarr": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20260319102732-2.403um-0.2m-77keV-masked.zarr/",
+    "shape_zyx": [
+      15137,
+      29587,
+      29587
+    ],
+    "voxel_um": 2.403
+  }
+}

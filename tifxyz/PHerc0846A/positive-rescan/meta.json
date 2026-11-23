@@ -1,0 +1,25 @@
+{
+  "uuid": "07f89883-7e0c-556c-9c83-84d3110b6b51",
+  "scale": [
+    0.062578125,
+    0.062578125
+  ],
+  "type": "seg",
+  "format": "tifxyz",
+  "bbox": [
+    [
+      6481.32763671875,
+      10337.1982421875,
+      5479.29443359375
+    ],
+    [
+      10761.517578125,
+      13905.1416015625,
+      10229.6904296875
+    ]
+  ],
+  "target_volume": "20260319102732-2.403um-0.2m-77keV-masked.zarr",
+  "volume_url": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0846A/volumes/20260319102732-2.403um-0.2m-77keV-masked.zarr/",
+  "description": "PHerc0846A CT ridge near positive",
+  "source_surface": "https://github.com/ketchupbyheinz/vesuvius-scroll-survey/tree/1f12c1ceb14c1f24acc48249eaad60bcdf541721/results/meshes/PHerc0846A_2246_3173_3928"
+}

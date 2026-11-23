@@ -1,0 +1,24 @@
+{
+  "scroll": "PHerc1203",
+  "anchor": 6,
+  "remeasured_shift_zyx": [
+    -0.9700389802455902,
+    2.1652082726359367,
+    -0.2632097601890564
+  ],
+  "stages": [
+    {
+      "listed_pyramid_level": 2,
+      "peak_correlation": 0.799119770526886
+    },
+    {
+      "listed_pyramid_level": 1,
+      "peak_correlation": 0.8113570213317871
+    },
+    {
+      "listed_pyramid_level": 0,
+      "peak_correlation": 0.8283926248550415
+    }
+  ],
+  "difference_from_archive_listed_voxels": 0.0
+}
